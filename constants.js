@@ -2,7 +2,9 @@ export const currency = "Rs.";
 
 export const whatsappNumber = "+923066223005";
 
-export const whatsappMessage = `Hi! I want to order: ${product.title} - ${currency}:${product.discount_price} \n${window.location.href}`;
+export const whatsappMessage = ` Hi! I want to order:  ${product.title} ₨:${product.discount_price}  
+ 
+ ${window.location.href}`;
 
 export const offerTimer = "2025-09-29T19:13:00.000Z";
 
