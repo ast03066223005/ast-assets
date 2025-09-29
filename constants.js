@@ -1,10 +1,4 @@
-export const currency = {
-  "country": "Pakistan",
-  "region": "Asia",
-  "level": "national",
-  "name": "Pakistani Rupee",
-  "symbol": "₨"
-};
+export const currency = "₨";
 
 export const whatsappNumber = "+923066223005";
 
