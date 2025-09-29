@@ -1,4 +1,4 @@
-export const currency = "â¨";
+export const currency = "₨";
 
 export const whatsappNumber = "+923066223005";
 
