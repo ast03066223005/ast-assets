@@ -1,4 +1,4 @@
-export const currency = "₨";
+export const currency = "â¨";
 
 export const whatsappNumber = "+923066223005";
 
@@ -6,7 +6,7 @@ export const whatsappMessage = ` Hi! I want to order:  ${product.title} - Rs.:${
  
  ${window.location.href}`;
 
-export const offerTimer = "2025-09-29T19:13:00.000Z";
+export const offerTimer = "2025-10-09T06:24:00.000Z";
 
 export const socialLinks = {
   "facebook": "https://www.facebook.com/astelecom6",
