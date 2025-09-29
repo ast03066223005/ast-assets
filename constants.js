@@ -1,8 +1,14 @@
-export const currency = undefined;
+export const currency = {
+  "country": "Pakistan",
+  "region": "Asia",
+  "level": "national",
+  "name": "Pakistani Rupee",
+  "symbol": "₨"
+};
 
 export const whatsappNumber = "+923066223005";
 
-export const whatsappMessage = ` Hi! I want to order:  ${product.title} â¨:${product.discount_price}  
+export const whatsappMessage = ` Hi! I want to order:  ${product.title} - Rs.:${product.discount_price}  
  
  ${window.location.href}`;
 
