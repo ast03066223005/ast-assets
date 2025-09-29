@@ -1,8 +1,8 @@
-export const currency = "Rs.";
+export const currency = undefined;
 
 export const whatsappNumber = "+923066223005";
 
-export const whatsappMessage = ` Hi! I want to order:  ${product.title} ₨:${product.discount_price}  
+export const whatsappMessage = ` Hi! I want to order:  ${product.title} â¨:${product.discount_price}  
  
  ${window.location.href}`;
 
